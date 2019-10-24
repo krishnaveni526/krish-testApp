@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="reference_index_include=active,all_tables.live_feed=true,all_tables.text_index_translations=true,all_tables.detail_row=short_description,all_tables.display_color=priority,extension_model=hierarchy,hasListeners=true,largeTable=true" label="Task" max_length="40" name="task" sizeclass="4430" text_index="true" type="collection">
+        <element label="CS4422703" max_length="40" name="x_snc_krish_cs4422703" type="string"/>
+    </element>
+</database>
