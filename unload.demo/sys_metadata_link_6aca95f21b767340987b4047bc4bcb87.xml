@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>636699621bbe3340987b4047bc4bcbfb</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_group">
+    <sys_user_group action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cost_center/>
+        <default_assignee/>
+        <description/>
+        <email/>
+        <exclude_manager>false</exclude_manager>
+        <include_members>false</include_members>
+        <manager/>
+        <name>test-grp</name>
+        <parent/>
+        <roles/>
+        <source/>
+        <sys_created_by>anusha.ghandamaneni@snc</sys_created_by>
+        <sys_created_on>2019-07-25 08:22:32</sys_created_on>
+        <sys_id>636699621bbe3340987b4047bc4bcbfb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>anusha.ghandamaneni@snc</sys_updated_by>
+        <sys_updated_on>2019-07-25 08:22:32</sys_updated_on>
+        <type/>
+    </sys_user_group>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>anusha.ghandamaneni@snc</sys_created_by>
+        <sys_created_on>2019-07-26 03:19:56</sys_created_on>
+        <sys_id>6aca95f21b767340987b4047bc4bcb87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test-grp</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>sys_metadata_link_6aca95f21b767340987b4047bc4bcb87</sys_update_name>
+        <sys_updated_by>anusha.ghandamaneni@snc</sys_updated_by>
+        <sys_updated_on>2019-07-26 03:19:56</sys_updated_on>
+        <tablename>sys_user_group</tablename>
+    </sys_metadata_link>
+</record_update>

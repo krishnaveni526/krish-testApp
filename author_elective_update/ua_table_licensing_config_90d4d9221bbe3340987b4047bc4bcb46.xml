@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_snc_krish_ktask</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>anusha.ghandamaneni@snc</sys_created_by>
+        <sys_created_on>2019-07-25 08:15:21</sys_created_on>
+        <sys_id>90d4d9221bbe3340987b4047bc4bcb46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_krish_ktask</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>ua_table_licensing_config_90d4d9221bbe3340987b4047bc4bcb46</sys_update_name>
+        <sys_updated_by>anusha.ghandamaneni@snc</sys_updated_by>
+        <sys_updated_on>2019-07-25 08:15:21</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</application>
+        <file_path/>
+        <instance_id>f5353afadb457bc44d2bac44d49619cd</instance_id>
+        <instance_name>krish</instance_name>
+        <name>ua_table_licensing_config_90d4d9221bbe3340987b4047bc4bcb46</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="DELETE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_snc_krish_ktask</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>anusha.ghandamaneni@snc</sys_created_by><sys_created_on>2019-07-25 08:15:21</sys_created_on><sys_id>90d4d9221bbe3340987b4047bc4bcb46</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_krish_ktask</sys_name><sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package><sys_policy/><sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope><sys_update_name>ua_table_licensing_config_90d4d9221bbe3340987b4047bc4bcb46</sys_update_name><sys_updated_by>anusha.ghandamaneni@snc</sys_updated_by><sys_updated_on>2019-07-25 08:15:21</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>1805038840</payload_hash>
+        <record_name>x_snc_krish_ktask</record_name>
+        <reverted_from/>
+        <source>2ba4d5221bbe3340987b4047bc4bcb50</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
+        <sys_created_on>2019-10-16 10:25:56</sys_created_on>
+        <sys_id>daae4159db2c8050dbddce1c2996192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16dd41a4b3d0000001</sys_recorded_at>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2019-10-16 10:25:56</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>56ae4159fb2c8050b6d1e5cc905c8d2f</update_guid>
+        <update_guid_history>56ae4159fb2c8050b6d1e5cc905c8d2f:1805038840,d0d4d92260be3340970f9cb3636fe947:76657260</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
+        <sys_created_on>2019-10-16 14:09:30</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>896f0697d74f4900a7d8acf4674ed744</sys_id>
+        <sys_metadata>90d4d9221bbe3340987b4047bc4bcb46</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_krish_ktask</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_scope_delete display_value="">2bf37e578e764f4ca804ba432aadb584</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_90d4d9221bbe3340987b4047bc4bcb46</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_90d4d9221bbe3340987b4047bc4bcb46">daae4159db2c8050dbddce1c2996192f</sys_update_version>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2019-10-16 14:09:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
