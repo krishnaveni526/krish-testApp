@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="INC task" max_length="40" name="x_snc_krish_inc_task" type="collection">
         <element label="newest1" max_length="100" name="newest1" type="string"/>
+        <element label="okokok" max_length="100" name="okokok" type="string"/>
     </element>
 </database>
