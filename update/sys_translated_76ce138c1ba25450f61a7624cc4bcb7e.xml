@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>question_text</element>
+        <id/>
+        <label>Test-Field2</label>
+        <language>fi</language>
+        <name>question</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2020-08-06 05:59:59</sys_created_on>
+        <sys_id>76ce138c1ba25450f61a7624cc4bcb7e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Test-Field2</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>sys_translated_76ce138c1ba25450f61a7624cc4bcb7e</sys_update_name>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2020-08-06 06:01:53</sys_updated_on>
+        <value>Name</value>
+    </sys_translated>
+</record_update>

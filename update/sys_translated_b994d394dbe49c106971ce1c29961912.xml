@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>name</element>
+        <id/>
+        <label>CS4674590-location-OOB</label>
+        <language>fi</language>
+        <name>content_block</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2020-04-29 13:48:18</sys_created_on>
+        <sys_id>b994d394dbe49c106971ce1c29961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CS4674590-location-OOB</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>sys_translated_b994d394dbe49c106971ce1c29961912</sys_update_name>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2020-04-29 13:48:18</sys_updated_on>
+        <value>CS4674590-location-OOB</value>
+    </sys_translated>
+</record_update>

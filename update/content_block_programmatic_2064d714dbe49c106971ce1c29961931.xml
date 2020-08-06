@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_block_programmatic">
+    <content_block_programmatic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <name>CS4674590-location-OOB</name>
+        <programmatic_content><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+ trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null"
+ 
+     var my_dashboardMessageHandler = new DashboardMessageHandler("my_unique_id");
+    
+    function publishFilter () {
+        var filter_message = {};
+        filter_message.id = "my_unique_id";
+        filter_message.table = "task";
+    
+    <!--     Add your own filter query logic here -->
+        filter_message.filter = "assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe";
+        SNC.canvas.interactiveFilters.setDefaultValue({
+                id: filter_message.id,
+                filters: [filter_message]
+            }, false);
+        my_dashboardMessageHandler.publishFilter(filter_message.table, filter_message.filter);
+    }
+    
+    function clearFilter() {
+        var filter_message = {};
+        filter_message.id = "my_unique_id";
+        filter_message.table = "task";
+        filter_message.filter = "";
+        SNC.canvas.interactiveFilters.setDefaultValue({
+                id: filter_message.id,
+                filters: [filter_message]
+            }, false);
+        my_dashboardMessageHandler.removeFilter();
+    }
+]]></programmatic_content>
+        <sys_class_name>content_block_programmatic</sys_class_name>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2020-04-29 13:48:18</sys_created_on>
+        <sys_id>2064d714dbe49c106971ce1c29961931</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CS4674590-location-OOB</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>content_block_programmatic_2064d714dbe49c106971ce1c29961931</sys_update_name>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2020-04-29 13:53:34</sys_updated_on>
+        <two_phase>false</two_phase>
+    </content_block_programmatic>
+</record_update>

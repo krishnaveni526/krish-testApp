@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_block_programmatic">
+    <content_block_programmatic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <name>CS4674590-location-test</name>
+        <programmatic_content><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+
+<body>
+<script>
+
+	//Invoke the filter format	
+	$j(document).ready(function() {$j(".js-example-basic-multiple-task-loc").select2();});
+
+	//Invoke the DashboardMessageHandler to use custom dynamic filters
+	var my_dashboardMessageHandler_task_loc = new DashboardMessageHandler("filtertasklocation");	
+	
+	function setFilterTaskLoc() {
+		//Get values from filter
+		var values = $j("#options-task-loc").val();
+	
+		if (values == null) {
+			// if no values return, empty the filter
+			my_dashboardMessageHandler_task_loc.removeFilter();	
+		} else {
+			var locations = [];
+			this.locations = locations;
+			for(var i = 0; i &lt; values.length; i++){
+				getChildLoc(values[i]);
+				getParentLoc(values[i]);
+			}
+			
+			var qryView1 = 'locationIN' + locations.toString();
+	
+			var filter_message_task_loc = {};
+			filter_message_task_loc.id = "filtertasklocation";
+			filter_message_task_loc.table = "task_location";
+			filter_message_task_loc.filter = qryView1;
+			SNC.canvas.interactiveFilters.setDefaultValue({
+					id: filter_message_task_loc.id,
+					filters: [filter_message_task_loc]
+				}, false);
+			my_dashboardMessageHandler_task_loc.publishFilter(filter_message_task_loc.table, filter_message_task_loc.filter);
+		}
+	}
+	
+	// Include value's parents and children relationships
+	// Loop children Locations and add them to the array.
+	function getChildLoc(loc){
+		var gr_loc = new GlideRecord('cmn_location');
+		gr_loc.addQuery('parent', loc.toString());
+		gr_loc.query();
+		while(gr_loc.next()){
+			this.locations.push(gr_loc.sys_id);
+			getChildLoc(gr_loc.sys_id);
+		}
+	return;
+	}
+
+	// Loop parent Locations and add them to the array.
+	function getParentLoc(loc){
+		var gr_loc = new GlideRecord('cmn_location');
+		gr_loc.addQuery('sys_id', loc.toString());
+		gr_loc.query();
+		while(gr_loc.next()){
+			this.locations.push(gr_loc.sys_id);
+			getParentLoc(gr_loc.parent);
+		}
+		return;
+	}
+</script>
+<g:evaluate>
+	var gr_loc = new GlideRecord('cmn_location');
+	gr_loc.orderBy('name');
+	gr_loc.query();
+</g:evaluate>
+  
+	<select id="options-task-loc" name="options" class="js-example-basic-multiple-task-loc" multiple="multiple" style="width: 100%" onchange="setFilterTaskLoc(this);" data-placeholder="${gs.getMessage('All')}">
+	   <j:while test="${gr_loc.next()}">
+		   <option value="${gr_loc.sys_id}">${gr_loc.name}</option>
+	   </j:while>
+	</select>
+   </body>
+</j:jelly>]]></programmatic_content>
+        <sys_class_name>content_block_programmatic</sys_class_name>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2020-04-29 12:57:07</sys_created_on>
+        <sys_id>32880f501be89cd0987b4047bc4bcbb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CS4674590-location-test</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>content_block_programmatic_32880f501be89cd0987b4047bc4bcbb7</sys_update_name>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2020-04-29 12:57:07</sys_updated_on>
+        <two_phase>false</two_phase>
+    </content_block_programmatic>
+</record_update>
