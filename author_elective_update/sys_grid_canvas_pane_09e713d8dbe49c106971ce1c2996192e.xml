@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA CS4674590-Dashboard2 - New Tab">13461358dbe49c106971ce1c29961947</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2020-04-29 07:02:44">89e713d8dbe49c106971ce1c2996192c</portal_widget>
+        <posx>0</posx>
+        <posy>3</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2020-04-29 14:02:44</sys_created_on>
+        <sys_id>09e713d8dbe49c106971ce1c2996192e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>13461358dbe49c106971ce1c29961947</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_09e713d8dbe49c106971ce1c2996192e</sys_update_name>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2020-04-29 14:02:51</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</application>
+        <file_path/>
+        <instance_id>f5353afadb457bc44d2bac44d49619cd</instance_id>
+        <instance_name>krish</instance_name>
+        <name>sys_grid_canvas_pane_09e713d8dbe49c106971ce1c2996192e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA CS4674590-Dashboard2 - New Tab">13461358dbe49c106971ce1c29961947</grid_canvas><height>10</height><portal_widget display_value="Created 2020-04-29 07:02:44">89e713d8dbe49c106971ce1c2996192c</portal_widget><posx>0</posx><posy>3</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>krishnaveni.y@snc</sys_created_by><sys_created_on>2020-04-29 14:02:44</sys_created_on><sys_id>09e713d8dbe49c106971ce1c2996192e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>13461358dbe49c106971ce1c29961947</sys_name><sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package><sys_policy/><sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope><sys_update_name>sys_grid_canvas_pane_09e713d8dbe49c106971ce1c2996192e</sys_update_name><sys_updated_by>krishnaveni.y@snc</sys_updated_by><sys_updated_on>2020-04-29 14:02:51</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>-1408336834</payload_hash>
+        <record_name>13461358dbe49c106971ce1c29961947</record_name>
+        <reverted_from/>
+        <source>e211de16db570414dbddce1c299619a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2020-04-29 14:02:52</sys_created_on>
+        <sys_id>83e7d7d8dbe49c106971ce1c29961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c63f56e50000001</sys_recorded_at>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2020-04-29 14:02:52</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>0be7d7d8c9e49c10ff570d2c7ea01534</update_guid>
+        <update_guid_history>0be7d7d8c9e49c10ff570d2c7ea01534:-1408336834,49e713d8a9e49c104991a62efead832f:-1150632159</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>deekshitulu.malladi@snc</sys_created_by>
+        <sys_created_on>2020-06-10 11:15:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>80abf41a426049b4aaf4e7501d3123c4</sys_id>
+        <sys_metadata>09e713d8dbe49c106971ce1c2996192e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>13461358dbe49c106971ce1c29961947</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_scope_delete display_value="">2bf37e578e764f4ca804ba432aadb584</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_09e713d8dbe49c106971ce1c2996192e</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_09e713d8dbe49c106971ce1c2996192e">83e7d7d8dbe49c106971ce1c29961935</sys_update_version>
+        <sys_updated_by>deekshitulu.malladi@snc</sys_updated_by>
+        <sys_updated_on>2020-06-10 11:15:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">884acfd01be89cd0987b4047bc4bcb40</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2020-04-29 13:03:08</sys_created_on>
+        <sys_id>104acfd01be89cd0987b4047bc4bcb41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>884acfd01be89cd0987b4047bc4bcb40</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>sys_report_users_groups_104acfd01be89cd0987b4047bc4bcb41</sys_update_name>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2020-04-29 13:03:08</sys_updated_on>
+        <user_id display_value="">krishnaveni.y@snc</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</application>
+        <file_path/>
+        <instance_id>f5353afadb457bc44d2bac44d49619cd</instance_id>
+        <instance_name>krish</instance_name>
+        <name>sys_report_users_groups_104acfd01be89cd0987b4047bc4bcb41</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">884acfd01be89cd0987b4047bc4bcb40</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>krishnaveni.y@snc</sys_created_by><sys_created_on>2020-04-29 13:03:08</sys_created_on><sys_id>104acfd01be89cd0987b4047bc4bcb41</sys_id><sys_mod_count>0</sys_mod_count><sys_name>884acfd01be89cd0987b4047bc4bcb40</sys_name><sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package><sys_policy/><sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope><sys_update_name>sys_report_users_groups_104acfd01be89cd0987b4047bc4bcb41</sys_update_name><sys_updated_by>krishnaveni.y@snc</sys_updated_by><sys_updated_on>2020-04-29 13:03:08</sys_updated_on><user_id display_value="">krishnaveni.y@snc</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>153952288</payload_hash>
+        <record_name>884acfd01be89cd0987b4047bc4bcb40</record_name>
+        <reverted_from/>
+        <source>e211de16db570414dbddce1c299619a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2020-04-29 13:03:08</sys_created_on>
+        <sys_id>144acfd01be89cd0987b4047bc4bcb43</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c608aa200000001</sys_recorded_at>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2020-04-29 13:03:08</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>1c4acfd018e89cd0b6ab96a03d164742</update_guid>
+        <update_guid_history>1c4acfd018e89cd0b6ab96a03d164742:153952288</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>deekshitulu.malladi@snc</sys_created_by>
+        <sys_created_on>2020-06-10 11:15:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>1e3ab7473a5949c687171b4bb24d3b64</sys_id>
+        <sys_metadata>104acfd01be89cd0987b4047bc4bcb41</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>884acfd01be89cd0987b4047bc4bcb40</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_parent display_value="Site impacts-test">884acfd01be89cd0987b4047bc4bcb40</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_scope_delete display_value="">2bf37e578e764f4ca804ba432aadb584</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_104acfd01be89cd0987b4047bc4bcb41</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_104acfd01be89cd0987b4047bc4bcb41">144acfd01be89cd0987b4047bc4bcb43</sys_update_version>
+        <sys_updated_by>deekshitulu.malladi@snc</sys_updated_by>
+        <sys_updated_on>2020-06-10 11:15:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Krish</name>
+        <order/>
+        <roles>x_snc_krish.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>anusha.ghandamaneni@snc</sys_created_by>
+        <sys_created_on>2019-07-25 08:14:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1fa4d9ae1b7e3340987b4047bc4bcb0d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Krish test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>sys_app_application_1fa4d9ae1b7e3340987b4047bc4bcb0d</sys_update_name>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2019-09-30 08:58:26</sys_updated_on>
+        <title>Krish test</title>
+        <view_name/>
+    </sys_app_application>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</application>
+        <file_path/>
+        <instance_id>f5353afadb457bc44d2bac44d49619cd</instance_id>
+        <instance_name>krish</instance_name>
+        <name>sys_app_application_1fa4d9ae1b7e3340987b4047bc4bcb0d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Krish</name>
+        <order/>
+        <roles>x_snc_krish.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>anusha.ghandamaneni@snc</sys_created_by>
+        <sys_created_on>2019-07-25 08:14:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1fa4d9ae1b7e3340987b4047bc4bcb0d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Krish test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>sys_app_application_1fa4d9ae1b7e3340987b4047bc4bcb0d</sys_update_name>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2019-09-30 08:58:26</sys_updated_on>
+        <title>Krish test</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>]]></payload>
+        <payload_hash>-805333350</payload_hash>
+        <record_name>Krish test</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
+        <sys_created_on>2019-10-24 11:47:59</sys_created_on>
+        <sys_id>562ee6b7db644010dbddce1c2996197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16dfd984acb0000001</sys_recorded_at>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2019-10-24 11:47:59</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>162ee6b7a064401052e1d3eb7503b97a</update_guid>
+        <update_guid_history>0a1e22b74f64401027d617bccf1d7958:-10195713,590aaebff82440103073e4eddf9014b1:-10195713,db58ae7b09244010ba651b01f03276fe:-10195713,3c31a60c915c0810d229012a7d6c616e:1228119138,aba4d52277be33406d83af86b0e45555:-460420334,d7a4d52236be33409ae3a1f81bd3ec49:-1631991838</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>deekshitulu.malladi@snc</sys_created_by>
+        <sys_created_on>2020-06-10 11:16:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>29227a2ba8b247da9413d1dc8e010479</sys_id>
+        <sys_metadata>1fa4d9ae1b7e3340987b4047bc4bcb0d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Krish test</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_scope_delete display_value="">2bf37e578e764f4ca804ba432aadb584</sys_scope_delete>
+        <sys_update_name>sys_app_application_1fa4d9ae1b7e3340987b4047bc4bcb0d</sys_update_name>
+        <sys_update_version display_value="sys_app_application_1fa4d9ae1b7e3340987b4047bc4bcb0d">562ee6b7db644010dbddce1c2996197a</sys_update_version>
+        <sys_updated_by>deekshitulu.malladi@snc</sys_updated_by>
+        <sys_updated_on>2020-06-10 11:16:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

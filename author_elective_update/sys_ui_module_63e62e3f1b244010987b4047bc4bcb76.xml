@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Krish test">2be62e3f1b244010987b4047bc4bcb73</application>
+        <filter/>
+        <name>INC tasks</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_krish.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2019-10-24 11:16:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>63e62e3f1b244010987b4047bc4bcb76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INC tasks</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>sys_ui_module_63e62e3f1b244010987b4047bc4bcb76</sys_update_name>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2019-10-24 11:16:23</sys_updated_on>
+        <table>x_snc_krish_inc_task</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</application>
+        <file_path/>
+        <instance_id>f5353afadb457bc44d2bac44d49619cd</instance_id>
+        <instance_name>krish</instance_name>
+        <name>sys_ui_module_63e62e3f1b244010987b4047bc4bcb76</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Krish test">2be62e3f1b244010987b4047bc4bcb73</application>
+        <filter/>
+        <name>INC tasks</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_krish.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2019-10-24 11:16:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>63e62e3f1b244010987b4047bc4bcb76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INC tasks</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>sys_ui_module_63e62e3f1b244010987b4047bc4bcb76</sys_update_name>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2019-10-24 11:16:23</sys_updated_on>
+        <table>x_snc_krish_inc_task</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>]]></payload>
+        <payload_hash>-850473782</payload_hash>
+        <record_name>INC tasks</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
+        <sys_created_on>2019-10-24 11:48:00</sys_created_on>
+        <sys_id>e22ee6b7db644010dbddce1c299619b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16dfd984dba0000001</sys_recorded_at>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2019-10-24 11:48:00</sys_updated_on>
+        <type>Module</type>
+        <update_guid>a22ee6b7f2644010dadfa948d6790eb5</update_guid>
+        <update_guid_history>951eee7741644010372b1aed25ac76a8:-202924103,a40a6ebf7f244010782cb27bbfd94eea:-202924103,42586e7bec2440102e7fa7be9263989f:-202924103,63e62e3ff52440104a87a61861748f85:-1023238774</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>deekshitulu.malladi@snc</sys_created_by>
+        <sys_created_on>2020-06-10 11:16:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>06dd0529a58d47e08397462d7c8ce400</sys_id>
+        <sys_metadata>63e62e3f1b244010987b4047bc4bcb76</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INC tasks</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_scope_delete display_value="">2bf37e578e764f4ca804ba432aadb584</sys_scope_delete>
+        <sys_update_name>sys_ui_module_63e62e3f1b244010987b4047bc4bcb76</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_63e62e3f1b244010987b4047bc4bcb76">e22ee6b7db644010dbddce1c299619b5</sys_update_version>
+        <sys_updated_by>deekshitulu.malladi@snc</sys_updated_by>
+        <sys_updated_on>2020-06-10 11:16:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

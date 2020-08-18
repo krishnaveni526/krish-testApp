@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="CS4674590-TEST">7137cf50dba49c106971ce1c2996199a</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2020-04-29 12:50:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>12470390dba49c106971ce1c299619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7137cf50dba49c106971ce1c2996199a</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_12470390dba49c106971ce1c299619ef</sys_update_name>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2020-04-29 12:50:11</sys_updated_on>
+        <tab display_value="CS4674590-TEST - New Tab">96470390dba49c106971ce1c299619ec</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</application>
+        <file_path/>
+        <instance_id>f5353afadb457bc44d2bac44d49619cd</instance_id>
+        <instance_name>krish</instance_name>
+        <name>pa_m2m_dashboard_tabs_12470390dba49c106971ce1c299619ef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="CS4674590-TEST">7137cf50dba49c106971ce1c2996199a</dashboard><home>false</home><homepage/><order>1</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>krishnaveni.y@snc</sys_created_by><sys_created_on>2020-04-29 12:50:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>12470390dba49c106971ce1c299619ef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>7137cf50dba49c106971ce1c2996199a</sys_name><sys_overrides/><sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package><sys_policy/><sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_12470390dba49c106971ce1c299619ef</sys_update_name><sys_updated_by>krishnaveni.y@snc</sys_updated_by><sys_updated_on>2020-04-29 12:50:11</sys_updated_on><tab display_value="CS4674590-TEST - New Tab">96470390dba49c106971ce1c299619ec</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>832813237</payload_hash>
+        <record_name>7137cf50dba49c106971ce1c2996199a</record_name>
+        <reverted_from/>
+        <source>e211de16db570414dbddce1c299619a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2020-04-29 12:50:11</sys_created_on>
+        <sys_id>9e474390dba49c106971ce1c29961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c5fccd5f0000001</sys_recorded_at>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2020-04-29 12:50:11</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>9647439057a49c103c72cf4f54d46809</update_guid>
+        <update_guid_history>9647439057a49c103c72cf4f54d46809:832813237</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>deekshitulu.malladi@snc</sys_created_by>
+        <sys_created_on>2020-06-10 11:15:59</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>4f2b6b28aa5247619c7c948fecb29031</sys_id>
+        <sys_metadata>12470390dba49c106971ce1c299619ef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7137cf50dba49c106971ce1c2996199a</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_parent display_value="CS4674590-TEST">7137cf50dba49c106971ce1c2996199a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_scope_delete display_value="">2bf37e578e764f4ca804ba432aadb584</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_12470390dba49c106971ce1c299619ef</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_12470390dba49c106971ce1c299619ef">9e474390dba49c106971ce1c29961909</sys_update_version>
+        <sys_updated_by>deekshitulu.malladi@snc</sys_updated_by>
+        <sys_updated_on>2020-06-10 11:15:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

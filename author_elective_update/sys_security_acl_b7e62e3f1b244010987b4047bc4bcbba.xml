@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_snc_krish_inc_task</description>
+        <name>x_snc_krish_inc_task</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2019-10-24 11:16:24</sys_created_on>
+        <sys_id>b7e62e3f1b244010987b4047bc4bcbba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_krish_inc_task</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>sys_security_acl_b7e62e3f1b244010987b4047bc4bcbba</sys_update_name>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2019-10-24 11:16:24</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</application>
+        <file_path/>
+        <instance_id>f5353afadb457bc44d2bac44d49619cd</instance_id>
+        <instance_name>krish</instance_name>
+        <name>sys_security_acl_b7e62e3f1b244010987b4047bc4bcbba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_snc_krish_inc_task</description>
+        <name>x_snc_krish_inc_task</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2019-10-24 11:16:24</sys_created_on>
+        <sys_id>b7e62e3f1b244010987b4047bc4bcbba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_krish_inc_task</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>sys_security_acl_b7e62e3f1b244010987b4047bc4bcbba</sys_update_name>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2019-10-24 11:16:24</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>]]></payload>
+        <payload_hash>-1068587688</payload_hash>
+        <record_name>x_snc_krish_inc_task</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
+        <sys_created_on>2019-10-24 11:47:59</sys_created_on>
+        <sys_id>1e2ee6b7db644010dbddce1c2996199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16dfd984c850000001</sys_recorded_at>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2019-10-24 11:47:59</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>da2ee6b7c864401028fd2d87bc256c9d</update_guid>
+        <update_guid_history>bc1eee77c96440109cb90134e1662762:1581871254,c40a6ebfbc2440104cc99dc4671daa73:1581871254,dd586e7b2d2440108fe479a331c04a1a:1581871254,fbe62e3ff42440107067de29b9aec0bd:-21914230</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>deekshitulu.malladi@snc</sys_created_by>
+        <sys_created_on>2020-06-10 11:16:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>08d26c56c00f41489698f9b17408b690</sys_id>
+        <sys_metadata>b7e62e3f1b244010987b4047bc4bcbba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_krish_inc_task</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_parent display_value="x_snc_krish_inc_task">202ee2b7db644010dbddce1c2996198b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_scope_delete display_value="">2bf37e578e764f4ca804ba432aadb584</sys_scope_delete>
+        <sys_update_name>sys_security_acl_b7e62e3f1b244010987b4047bc4bcbba</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_b7e62e3f1b244010987b4047bc4bcbba">1e2ee6b7db644010dbddce1c2996199d</sys_update_version>
+        <sys_updated_by>deekshitulu.malladi@snc</sys_updated_by>
+        <sys_updated_on>2020-06-10 11:16:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

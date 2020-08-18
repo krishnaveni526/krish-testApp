@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>deekshitulu.malladi@snc</sys_created_by>
+        <sys_created_on>2020-06-10 11:52:07</sys_created_on>
+        <sys_id>ddcc4771db99dc106971ce1c29961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_cmp_cloud_trail_step.snc_internal</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_security_acl display_value="">abe4ce4093ad32004a9032bfa67ffb97</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ddcc4771db99dc106971ce1c29961905</sys_update_name>
+        <sys_updated_by>deekshitulu.malladi@snc</sys_updated_by>
+        <sys_updated_on>2020-06-10 11:52:07</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id>75770f39dbd5dc106971ce1c299619c3</transaction_id>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</application>
+        <file_path/>
+        <instance_id>f5353afadb457bc44d2bac44d49619cd</instance_id>
+        <instance_name>krish</instance_name>
+        <name>sys_security_acl_role_ddcc4771db99dc106971ce1c29961905</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>deekshitulu.malladi@snc</sys_created_by><sys_created_on>2020-06-10 11:52:07</sys_created_on><sys_id>ddcc4771db99dc106971ce1c29961905</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_cmp_cloud_trail_step.snc_internal</sys_name><sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package><sys_policy/><sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope><sys_security_acl display_value="">abe4ce4093ad32004a9032bfa67ffb97</sys_security_acl><sys_update_name>sys_security_acl_role_ddcc4771db99dc106971ce1c29961905</sys_update_name><sys_updated_by>deekshitulu.malladi@snc</sys_updated_by><sys_updated_on>2020-06-10 11:52:07</sys_updated_on><sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role><transaction_id>75770f39dbd5dc106971ce1c299619c3</transaction_id></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1163761478</payload_hash>
+        <record_name>sn_cmp_cloud_trail_step.snc_internal</record_name>
+        <reverted_from/>
+        <source>229be030db2010106971ce1c2996197d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-04-30 14:46:56</sys_created_on>
+        <sys_id>777fe7f9db9ddc106971ce1c299619a2</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>171cb8e0b000000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Access Roles</type>
+        <update_guid>377fe7f91e9ddc100637f2435d9245a2</update_guid>
+        <update_guid_history>377fe7f91e9ddc100637f2435d9245a2:-1163761478</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-06-10 07:23:50">7f7fe7f9db9ddc106971ce1c299619a0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>deekshitulu.malladi@snc</sys_created_by>
+        <sys_created_on>2020-06-10 14:23:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>12dad4335dab4ebea18a71cdc5ea9679</sys_id>
+        <sys_metadata>ddcc4771db99dc106971ce1c29961905</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_cmp_cloud_trail_step.snc_internal</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_parent display_value="sn_cmp_cloud_trail_step">abe4ce4093ad32004a9032bfa67ffb97</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_scope_delete display_value="">2bf37e578e764f4ca804ba432aadb584</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_ddcc4771db99dc106971ce1c29961905</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_ddcc4771db99dc106971ce1c29961905">777fe7f9db9ddc106971ce1c299619a2</sys_update_version>
+        <sys_updated_by>deekshitulu.malladi@snc</sys_updated_by>
+        <sys_updated_on>2020-06-10 14:23:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

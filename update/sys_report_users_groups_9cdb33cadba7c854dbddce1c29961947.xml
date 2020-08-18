@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="CS4623946- test">10db33cadba7c854dbddce1c29961947</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2020-03-16 10:06:17</sys_created_on>
+        <sys_id>9cdb33cadba7c854dbddce1c29961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>10db33cadba7c854dbddce1c29961947</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>sys_report_users_groups_9cdb33cadba7c854dbddce1c29961947</sys_update_name>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2020-03-16 10:06:17</sys_updated_on>
+        <user_id display_value="">krishnaveni.y@snc</user_id>
+    </sys_report_users_groups>
+</record_update>

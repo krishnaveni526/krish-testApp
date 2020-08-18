@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_snc_krish_inc_task" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>newest1</element>
+            <list_id display_value="x_snc_krish_inc_task" element="NULL" name="x_snc_krish_inc_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">524fb47ddbf80810dbddce1c299619e7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>krishnaveni.y@snc</sys_created_by>
+            <sys_created_on>2019-10-30 08:51:25</sys_created_on>
+            <sys_id>5a4fb47ddbf80810dbddce1c299619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+            <sys_updated_on>2019-10-30 08:51:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>okokok</element>
+            <list_id display_value="x_snc_krish_inc_task" element="NULL" name="x_snc_krish_inc_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">524fb47ddbf80810dbddce1c299619e7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>krishnaveni.y@snc</sys_created_by>
+            <sys_created_on>2019-10-30 08:51:25</sys_created_on>
+            <sys_id>de4fb47ddbf80810dbddce1c299619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+            <sys_updated_on>2019-10-30 08:51:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_krish_inc_task</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>krishnaveni.y@snc</sys_created_by>
+            <sys_created_on>2019-10-30 08:51:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>524fb47ddbf80810dbddce1c299619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_krish_inc_task</sys_name>
+            <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_krish_inc_task_null</sys_update_name>
+            <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+            <sys_updated_on>2019-10-30 08:51:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</application>
+        <file_path/>
+        <instance_id>f5353afadb457bc44d2bac44d49619cd</instance_id>
+        <instance_name>krish</instance_name>
+        <name>sys_ui_list_x_snc_krish_inc_task_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_krish_inc_task" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>newest1</element><list_id display_value="x_snc_krish_inc_task" element="NULL" name="x_snc_krish_inc_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">524fb47ddbf80810dbddce1c299619e7</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>krishnaveni.y@snc</sys_created_by><sys_created_on>2019-10-30 08:51:25</sys_created_on><sys_id>5a4fb47ddbf80810dbddce1c299619e9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>krishnaveni.y@snc</sys_updated_by><sys_updated_on>2019-10-30 08:51:25</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>okokok</element><list_id display_value="x_snc_krish_inc_task" element="NULL" name="x_snc_krish_inc_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">524fb47ddbf80810dbddce1c299619e7</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>krishnaveni.y@snc</sys_created_by><sys_created_on>2019-10-30 08:51:25</sys_created_on><sys_id>de4fb47ddbf80810dbddce1c299619e9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>krishnaveni.y@snc</sys_updated_by><sys_updated_on>2019-10-30 08:51:25</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_snc_krish_inc_task</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>krishnaveni.y@snc</sys_created_by><sys_created_on>2019-10-30 08:51:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>524fb47ddbf80810dbddce1c299619e7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_krish_inc_task</sys_name><sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package><sys_policy/><sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope><sys_update_name>sys_ui_list_x_snc_krish_inc_task_null</sys_update_name><sys_updated_by>krishnaveni.y@snc</sys_updated_by><sys_updated_on>2019-10-30 08:51:25</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-21689013</payload_hash>
+        <record_name>INC task</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2019-10-30 08:51:25</sys_created_on>
+        <sys_id>264fb87ddbf80810dbddce1c29961920</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e1bdccce10000001</sys_recorded_at>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2019-10-30 08:51:25</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>e24fb87d01f808104e306861f9743020</update_guid>
+        <update_guid_history>e24fb87d01f808104e306861f9743020:-21689013</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>deekshitulu.malladi@snc</sys_created_by>
+        <sys_created_on>2020-06-10 11:16:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>9115afa497b548be85d1e8f048808881</sys_id>
+        <sys_metadata>524fb47ddbf80810dbddce1c299619e7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_krish_inc_task</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_parent display_value="">1dd6aa3f1b244010987b4047bc4bcbd5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_scope_delete display_value="">2bf37e578e764f4ca804ba432aadb584</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_snc_krish_inc_task_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_snc_krish_inc_task_null">264fb87ddbf80810dbddce1c29961920</sys_update_version>
+        <sys_updated_by>deekshitulu.malladi@snc</sys_updated_by>
+        <sys_updated_on>2020-06-10 11:16:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

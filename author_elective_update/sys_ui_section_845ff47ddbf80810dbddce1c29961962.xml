@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="845ff47ddbf80810dbddce1c29961962" sys_domain="global" table="x_snc_krish_inc_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>newest1</element>
+            <position>0</position>
+            <sys_created_by>krishnaveni.y@snc</sys_created_by>
+            <sys_created_on>2019-10-30 08:51:32</sys_created_on>
+            <sys_id>185fb87ddbf80810dbddce1c299619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_krish_inc_task" sys_domain="global" view="Default view">845ff47ddbf80810dbddce1c29961962</sys_ui_section>
+            <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+            <sys_updated_on>2019-10-30 08:51:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>okokok</element>
+            <position>1</position>
+            <sys_created_by>krishnaveni.y@snc</sys_created_by>
+            <sys_created_on>2019-10-30 08:51:32</sys_created_on>
+            <sys_id>105fb87ddbf80810dbddce1c299619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_krish_inc_task" sys_domain="global" view="Default view">845ff47ddbf80810dbddce1c29961962</sys_ui_section>
+            <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+            <sys_updated_on>2019-10-30 08:51:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_krish_inc_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>krishnaveni.y@snc</sys_created_by>
+            <sys_created_on>2019-10-30 08:51:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>845ff47ddbf80810dbddce1c29961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_krish_inc_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+            <sys_update_name>sys_ui_section_845ff47ddbf80810dbddce1c29961962</sys_update_name>
+            <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+            <sys_updated_on>2019-10-30 08:51:32</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</application>
+        <file_path/>
+        <instance_id>f5353afadb457bc44d2bac44d49619cd</instance_id>
+        <instance_name>krish</instance_name>
+        <name>sys_ui_section_845ff47ddbf80810dbddce1c29961962</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="845ff47ddbf80810dbddce1c29961962" sys_domain="global" table="x_snc_krish_inc_task" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>newest1</element><position>0</position><sys_created_by>krishnaveni.y@snc</sys_created_by><sys_created_on>2019-10-30 08:51:32</sys_created_on><sys_id>185fb87ddbf80810dbddce1c299619e8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_krish_inc_task" sys_domain="global" view="Default view">845ff47ddbf80810dbddce1c29961962</sys_ui_section><sys_updated_by>krishnaveni.y@snc</sys_updated_by><sys_updated_on>2019-10-30 08:51:32</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>okokok</element><position>1</position><sys_created_by>krishnaveni.y@snc</sys_created_by><sys_created_on>2019-10-30 08:51:32</sys_created_on><sys_id>105fb87ddbf80810dbddce1c299619e9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_krish_inc_task" sys_domain="global" view="Default view">845ff47ddbf80810dbddce1c29961962</sys_ui_section><sys_updated_by>krishnaveni.y@snc</sys_updated_by><sys_updated_on>2019-10-30 08:51:32</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_snc_krish_inc_task</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>krishnaveni.y@snc</sys_created_by><sys_created_on>2019-10-30 08:51:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>845ff47ddbf80810dbddce1c29961962</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_krish_inc_task</sys_name><sys_overrides/><sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package><sys_policy/><sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope><sys_update_name>sys_ui_section_845ff47ddbf80810dbddce1c29961962</sys_update_name><sys_updated_by>krishnaveni.y@snc</sys_updated_by><sys_updated_on>2019-10-30 08:51:32</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>682287314</payload_hash>
+        <record_name>INC task</record_name>
+        <reverted_from/>
+        <source>dbb39efcdb523300dbddce1c29961915</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2019-10-30 08:51:32</sys_created_on>
+        <sys_id>545fb87ddbf80810dbddce1c299619ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e1bdce9900000001</sys_recorded_at>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2019-10-30 08:51:32</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>dc5fb87d63f8081064e843f747ad18e9</update_guid>
+        <update_guid_history>dc5fb87d63f8081064e843f747ad18e9:682287314,145ff47d4cf80810a83c365189172565:-1602793542</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>deekshitulu.malladi@snc</sys_created_by>
+        <sys_created_on>2020-06-10 11:16:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>4de6965f6ca24f58bd74809648d97984</sys_id>
+        <sys_metadata>845ff47ddbf80810dbddce1c29961962</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_krish_inc_task</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_parent display_value="">1dd6aa3f1b244010987b4047bc4bcbd5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_scope_delete display_value="">2bf37e578e764f4ca804ba432aadb584</sys_scope_delete>
+        <sys_update_name>sys_ui_section_845ff47ddbf80810dbddce1c29961962</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_845ff47ddbf80810dbddce1c29961962">545fb87ddbf80810dbddce1c299619ea</sys_update_version>
+        <sys_updated_by>deekshitulu.malladi@snc</sys_updated_by>
+        <sys_updated_on>2020-06-10 11:16:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
