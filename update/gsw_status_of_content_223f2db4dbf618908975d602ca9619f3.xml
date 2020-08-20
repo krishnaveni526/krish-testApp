@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_status_of_content">
+    <gsw_status_of_content action="INSERT_OR_UPDATE">
+        <best_practice_allowed_ever>0</best_practice_allowed_ever>
+        <checksum/>
+        <content display_value="Step 1">624c24dcb7a43300ece839a6ee11a917</content>
+        <effective_weight>1</effective_weight>
+        <more_info_visited>false</more_info_visited>
+        <previous_status>0</previous_status>
+        <progress>0</progress>
+        <related_log_entry display_value="2020-08-20 09:03:40">ea3f2db4dbf618908975d602ca9619f2</related_log_entry>
+        <status>0</status>
+        <sys_class_name>gsw_status_of_content</sys_class_name>
+        <sys_created_by>anusha.ghandamaneni@snc</sys_created_by>
+        <sys_created_on>2020-08-20 16:03:40</sys_created_on>
+        <sys_id>223f2db4dbf618908975d602ca9619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0</sys_name>
+        <sys_package display_value="Krish" source="x_snc_krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krish">57a4ddee1b7e3340987b4047bc4bcb37</sys_scope>
+        <sys_update_name>gsw_status_of_content_223f2db4dbf618908975d602ca9619f3</sys_update_name>
+        <sys_updated_by>anusha.ghandamaneni@snc</sys_updated_by>
+        <sys_updated_on>2020-08-20 16:03:40</sys_updated_on>
+    </gsw_status_of_content>
+</record_update>
